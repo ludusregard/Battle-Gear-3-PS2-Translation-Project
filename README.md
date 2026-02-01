@@ -1,0 +1,1 @@
+Currently heavy W.I.P. but Quick Race is fully translated. Will update this readme later with more details but if you want to test the current progress just grab the files and place "SLPM-65434" into your PCSX2 textures folder. Works just like any PCSX2 texture pack.
