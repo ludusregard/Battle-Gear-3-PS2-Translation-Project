@@ -1,8 +1,8 @@
-<img width="640" height="480" alt="image" src="https://github.com/user- attachments/assets/47b026ba- 834a- 4b43- 8db4- 1b50f8acec97" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/47b026ba-834a-4b43-8db4-1b50f8acec97" />
 
-This texture pack translates the entirety of the offline portions of Battle Gear 3 for PS2 to English (US). This is a texture pack to be used in PCSX2 with one of the non- software rendering options. Simply unzip and place "SLPM- 65434" into your PCSX2 textures folder. Make sure to properly enable PCSX2's Texture Replacement feature like the image below:
+This texture pack translates the entirety of the offline portions of Battle Gear 3 for PS2 to English (US). This is a texture pack to be used in PCSX2 with one of the non-software rendering options. Simply unzip and place "SLPM-65434" into your PCSX2 textures folder. Make sure to properly enable PCSX2's Texture Replacement feature like the image below:
 
-<img width="728" height="517" alt="image" src="https://github.com/user- attachments/assets/582b41ff- 2679- 46bb- b038- 592bdf705822" />
+<img width="728" height="517" alt="image" src="https://github.com/user-attachments/assets/582b41ff-2679-46bb-b038-592bdf705822" />
 
 
 ### NOTES
