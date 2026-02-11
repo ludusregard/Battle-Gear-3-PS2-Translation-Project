@@ -16,6 +16,10 @@ This texture pack translates the entirety of the offline portions of Battle Gear
 
 - The only known untranslated text is of the track titles at the beginning of battles in Main Race. If you find any other leftover untranslated bits please let me know!
 
+- For anyone wanting to make their own translation please feel free to use anything here. The primary typefaces I used were Helvetica Neue Bold, Helvetica Neue Regular, and Helvetica LT UltraCompressed. The game's original English text was definitely based off Helvetica so I recommend staying within that family to keep stylistic consistency.
+
+- This translation texture pack is made to match original res, feel free to make your own HD UI using this as a base.
+
 ### STRETCH GOALS/ADDITIONAL FUTURE WORK
 - Dump/translate the remaining text related to network online mode.
 
